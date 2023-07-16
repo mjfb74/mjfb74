@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, I'm Maria! 👋
 
-<!--
-**mjfb74/mjfb74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Former PA with over 20 years of professional experience in a multinational company, my expertise spans across various fields such as taxes, logistics, customer service, HR, accounting, tech support and customs handling. 
 
-Here are some ideas to get you started:
+Now, I am on an exciting journey to pivot my career into the tech industry. I started learning Python in November 2022.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning 
+* Python
+* Databases
+* Frameworks
+* APIs
+* Cloud Services
+* and more...
+
+I am incredibly excited about applying my extensive professional experience to programming and can't wait to bring my ideas to life through code!
+
+
+## 📫 How to reach me 
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/maria-fernandez-a36698254/)
+
+## 😄 Pronouns: She/Her
+
