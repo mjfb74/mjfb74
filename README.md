@@ -2,7 +2,7 @@
 
 Former PA with over 20 years of professional experience in a multinational company, my expertise spans across various fields such as taxes, logistics, customer service, HR, accounting, tech support and customs handling. 
 
-Now, I am on an exciting journey to pivot my career into the tech industry. I started learning Python in November 2022.
+Now I am on an exciting journey to pivot my career into the tech industry. I started learning Python in November 2022.
 
 ## 🌱 I’m currently learning 
 * Python
